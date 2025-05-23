@@ -1,4 +1,4 @@
-# NeuroNetV1: An Adaptive End-to-End Multidomain EEG Classification Network
+# NeuroNetV1: A Unified End-to-End Framework for Multi-Condition EEG Classification
 
 NeuroNetV1 is an advanced neural network designed for the classification of electroencephalogram (EEG) signals across multiple domains. This repository provides the implementation details, model architecture, and supplementary materials to facilitate understanding and utilization of the network.
 
